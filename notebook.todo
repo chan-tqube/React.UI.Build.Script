@@ -1,4 +1,19 @@
-# Sublime Text compatible TODO List
+# Sublime Text compatible (ToDone) TODO List (https://github.com/tiffon/sublime-to-done)
+
+- Complete Standard functions
+- Dockerfile Compatibility
 
 -- ES6 Compliance
 -- Typescript Compliance
+-- Jenkins Pipeline
+-- USAGE.md
+-- MIGRATION.md
+-- Support for ES5
+
+--- VAPT
+
+---- Makefile
+
+----- ELK Stack for Logging
+----- Component Registry
+----- Usage Monitoring
