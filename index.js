@@ -1,9 +1,5 @@
-export default class TaskRunner extends BaseRunner {
+export default class TaskRunner {
   constructor () {
-
-  }
-
-  run () {
 
   }
 }
